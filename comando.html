@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Comando (linguagem de programaçãoJava)</h1>
+
+<p>Classes
+Exemplo:
+
+public abstract class Animal {
+   public abstract void fazerBarulho();
+} 
+<br>
+public class Cachorro extends Animal {
+   public void fazerBarulho() {
+      System.out.println("AuAu!");
+   }
+} 
+<br>
+public class Gato extends Animal {
+   public void fazerBarulho() {
+      System.out.println("Miau!");
+   }
+} 
+<br>
+</p>
+
+<p> O exemplo acima cria a classe Animal e duas classes derivadas de Animal. É importante observar que nas classes derivadas temos a redefinição do método fazerBarulho(). Esta redefinição é classificada como uma sobreposição (override) de métodos. O conceito de sobreposição somente pode ser identificado e utilizado quando temos classes dispostas em um relacionamento de herança.
+
+Java não suporta herança múltipla, devido a possibilidade de uma classe pai ter um método com o mesmo nome de outra classe pai, e gerar possíveis falhas ao chamar o método, e todas as classes em Java derivam da classe Object. A única possibilidade de se ver herança múltipla em Java é no uso de interfaces, pois uma classe pode implementar várias interfaces.</p>
+
+</body>
+</html>
