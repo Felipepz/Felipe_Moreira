@@ -7,12 +7,15 @@ Complete o texto, indicando o que você quer fazer:
 1) Resumo (3 frases)
 
 Neste artigo veremos os principais características trazendo com base a linguagem java. 
+
 A linguagem java é uma linguagem desenvolvida na decada de 90.
+
 Tendo uma sintaxe similar a C/C++.
 
 2) Objetivo (2 frases)
 
 O objetivo da linguagem java é trazer como a linguagem nasceu, e suas funcionalidades para o dia a dia. 
+
 Tendo em vista que ela é uma das principais linguagens utilizadas no dia a dia.
 
 3) Público Alvo (2 frases)
@@ -24,7 +27,6 @@ Desenvolvedores, Estudantes
 Conhecer a linguagem, Boa organização, Criatividade
 
 5) Cronograma inicial (datas)
-
 
 18/05/2022
 
