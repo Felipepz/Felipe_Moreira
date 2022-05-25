@@ -11,14 +11,17 @@ A linguagem java é uma linguagem desenvolvida na decada de 90.
 Tendo uma sintaxe similar a C/C++.
 
 2) Objetivo (2 frases)
+
 O objetivo da linguagem java é trazer como a linguagem nasceu, e suas funcionalidades para o dia a dia. 
 Tendo em vista que ela é uma das principais linguagens utilizadas no dia a dia.
 
 3) Público Alvo (2 frases)
+
 Desenvolvedores, Estudantes 
 
 4) Critérios para inclusão de colaboradores (3 critérios)
-Conhecer a linguagem, Boa organização
+
+Conhecer a linguagem, Boa organização, Criatividade
 
 5) Cronograma inicial (datas)
 
