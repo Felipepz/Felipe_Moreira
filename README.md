@@ -1,6 +1,8 @@
+#Equipe:
+1) Felipe Moreira
+2) Ricardo Magalhães Simões
+3) Rafael Savignon de Resende
 # Prof Ricardo de Magalhães Simões
-# Dono do Projeto: Felipe Moreira
-# Colaborador: Rafael Savignon
 
 Este arquivo funciona como um documento de "apresentação" do projeto.
 
