@@ -31,10 +31,17 @@ Conhecer a linguagem, Boa organização, Criatividade
 18/05/2022
 
 5.1) Início do Projeto:  18/05/2022
+
 5.2) Primeira Versão:  20/05/2022
+
 5.3) Divulgação seletiva:  22/05/2022
+
 5.4) Análise de Comentários:  24/05/2022
+
 5.5) Revisão do Projeto:  25/05/2022
+
 5.6) Divulgação da Revisão: 27/05/2022 
+
 5.7) Divulgação Ampla:  28/05/2022
+
 5.8) Preparativo para Segunda Versão:  30/05/2022
